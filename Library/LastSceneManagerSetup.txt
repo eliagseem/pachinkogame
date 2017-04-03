@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/EgseemPachinkoGame3000.unity
+  isLoaded: 1
+  isActive: 1
